@@ -1,0 +1,17 @@
+{
+  "name": "nano_ws",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "phtn",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "ripple-lib": "^1.9.7",
+    "walve": "^2.0.0",
+    "ws": "^7.5.3"
+  }
+}
